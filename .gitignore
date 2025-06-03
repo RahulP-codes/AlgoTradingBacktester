@@ -4,7 +4,7 @@ __pycache__/
 *.pyo
 
 # Ignore venv
-venv/
+myenv/
 
 # Stay tuned :D
 stay_tuned/
